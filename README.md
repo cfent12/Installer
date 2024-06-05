@@ -15,3 +15,4 @@
 - CheckPIDDll
     - 설치 수행 전 시리얼 번호 확인 라이브러리
     - https://copynull.tistory.com/161
+    - orca 설치 방법 : https://rroott.tistory.com/30
